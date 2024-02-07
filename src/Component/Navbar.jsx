@@ -23,7 +23,7 @@ function Navbar() {
     <div>
       <div className="navbar bg-primary text-primary-content px-4">
         <div className="flex-1 flex items-center justify-center">
-          <button className="btn btn-ghost text-5xl">Todo List App</button>
+          <button className="btn btn-ghost text-5xl">Todo List</button>
         </div>
         <div className="flex-none">
           <label className="cursor-pointer grid place-items-center">
