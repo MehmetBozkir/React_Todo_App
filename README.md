@@ -23,13 +23,13 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 $ git clone https://github.com/MehmetBozkir/React_Todo_App.git
 
 # Go into the repository
-$ cd ...
+$ cd React_Todo_App
 
 # Install dependencies
 $ npm install
 
 # Run the app
-$ npm start
+$ npm run dev
 ```
 ## :link: Demo
   - <a target="_blank" href="https://react-todo-app-mehmet.netlify.app/"> Click Here </a> to see and play by yourself a demo of the game.
