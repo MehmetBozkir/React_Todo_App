@@ -32,7 +32,7 @@ $ npm install
 $ npm run dev
 ```
 ## :link: Demo
-  - <a target="_blank" href="https://react-todo-app-mehmet.netlify.app/"> Click Here </a> to see and play by yourself a demo of the game.
+  - <a target="_blank" href="https://react-todo-app-x.netlify.app//"> Click Here </a> to see and play by yourself a demo of the game.
 
 <br> 
 
